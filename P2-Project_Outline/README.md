@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I'm an individual that wants to have all my financial resources in one place. My app started as a basic budget app and a credit repair letter tracker. I would like to now expand my app to include actual credit resources, better budget creation and tracking. Expanding my app and also giving it a fresh redesign.
 ### Features
-Include Features here
+Calendar Integration for different events (payments, income, letter due dates)
+Credit resources
+CRUD design
+Better calculations for the budget
+Adding web addresses for online payments from my app
 ### Technologies
-Include Technologies here
+HTML
+CSS
+JavaScript
+TypeScript
+Angular
+Node.js
+Material UI
+Bootstrap
 ### What I'll Have to Learn
-Include what you will need to learn here
+Node.js
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/cres3jHV/demo-day-thisbudget
