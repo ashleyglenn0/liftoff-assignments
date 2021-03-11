@@ -1,3 +1,4 @@
+[Copy of LC RESUME TEMPLATE_ No Experience_No Degree 021219 .pdf](https://github.com/ashleyglenn0/liftoff-assignments/files/6126058/Copy.of.LC.RESUME.TEMPLATE_.No.Experience_No.Degree.021219.pdf)
 # Online Profiles
 For this assignment you will need to upload your resume and provide links to your GitHub account and your LinkedIn account.
 
