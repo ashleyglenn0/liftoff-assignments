@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+github.com/ashleyglenn0
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+www.linkedin.com/in/ashley-glenn-b0a4941b0
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
